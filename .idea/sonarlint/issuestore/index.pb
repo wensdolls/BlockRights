@@ -7,3 +7,5 @@ M
 tests/citizen-rewards.test.ts,a/b/ab1300db1c6090ff15acbb1d9bf022618969e670
 H
 contracts/licensing.clar,4/8/485e681ac1dcfe7f9c9c2270616cc7f37b7d33ba
+G
+tests/licensing.test.ts,e/c/ec61909a1e0229a201a3f39ae93167143fdf5178
